@@ -12,3 +12,4 @@ The NYPD asked Google to stop showing the location of various drunk driving chec
 
 Quick edit from local repo - CM 02/12/19
 ## Add your thoughts below!
+"I the NYPD is in the right to do this! Drunk drivers and other influenced drivers pose a risk for society by allowing them to bypass checkpoints. In my opinion this needs to be escalated and overtruned ASAP. I truly don't know who in their right mind would alert others of DUI points"
