@@ -17,5 +17,4 @@ Quick edit from local repo - CM 02/12/19
 
 I feel as though the title is slightly misleading, as the feature does not explicitly mark drunk driving checkpoints, but police checkpoints in general. It's an interesting feature and I see how it is both useful for those in a rush (as these can slow people down, making them late) like the hazard and accident marking features, and also dangerous (drunk drivers and criminals). I think it will be interesting seeing what legal precedent this will set
 
-=====
 "I the NYPD is in the right to do this! Drunk drivers and other influenced drivers pose a risk for society by allowing them to bypass checkpoints. In my opinion this needs to be escalated and overtruned ASAP. I truly don't know who in their right mind would alert others of DUI points" - Rachel
