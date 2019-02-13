@@ -13,8 +13,11 @@ The NYPD asked Google to stop showing the location of various drunk driving chec
 Quick edit from local repo - CM 02/12/19
 ## Add your thoughts below!
 
-### Addition by Owen England (joe215)
+I agree with CM that the NYPD is justified in their complaints of wanting Google to stop showing the location of drunk driving checkpoints, as in the end scheme of things, they're there to protect civilians and enforce road safety. Hopefully Google will oblige, as not doing so seems like it could only result in negative consequences. - Vinnie Zhang 2/12/19
+
+#### Addition by Owen England (joe215)
 
 I feel as though the title is slightly misleading, as the feature does not explicitly mark drunk driving checkpoints, but police checkpoints in general. It's an interesting feature and I see how it is both useful for those in a rush (as these can slow people down, making them late) like the hazard and accident marking features, and also dangerous (drunk drivers and criminals). I think it will be interesting seeing what legal precedent this will set
 
 "I the NYPD is in the right to do this! Drunk drivers and other influenced drivers pose a risk for society by allowing them to bypass checkpoints. In my opinion this needs to be escalated and overtruned ASAP. I truly don't know who in their right mind would alert others of DUI points" - Rachel
+
