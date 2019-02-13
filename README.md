@@ -12,3 +12,5 @@ The NYPD asked Google to stop showing the location of various drunk driving chec
 
 Quick edit from local repo - CM 02/12/19
 ## Add your thoughts below!
+
+I agree with CM that the NYPD is justified in their complaints of wanting Google to stop showing the location of drunk driving checkpoints, as in the end scheme of things, they're there to protect civilians and enforce road safety. Hopefully Google will oblige, as not doing so seems like it could only result in negative consequences. - Vinnie Zhang 2/12/19
